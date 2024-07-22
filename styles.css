@@ -1,0 +1,66 @@
+.title{
+    text-align: center;
+    width: 100%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(154, 97, 28);
+}h1:hover{
+    color: rgb(43, 220, 226);
+}
+.ko{
+    text-align: center;
+    width: 100%;
+    text-decoration:rgb(91, 42, 72) dotted underline;
+    color: rgb(14, 98, 117);
+    font-size: 140%;
+    }
+    .ko:hover{
+    color: brown;
+}
+body{
+    background-color: rgba(36, 199, 211, 0.175);
+    text-align: start;
+}
+#para{
+    font-weight: bolder;
+    line-height:20px;
+    height: fit-content;
+    width:fit-content;
+    background-color: rgb(93, 221, 221);
+    padding: 10px;
+    border-width:fit-content ;
+    border-style: double;
+    border-color: darkred;
+    border-radius: 20px;
+}
+#ara{
+    font-weight: bolder;
+    line-height:20px;
+    height: fit-content;
+    width:fit-content;
+    background-color: rgb(151, 155, 139);
+    padding: 10px;
+    border: 2px dashed gainsboro;
+    border-radius: 20px;
+    margin: -100px 100px 10px 300px ;
+}
+a {
+    text-decoration:none;
+    text-orientation: sideways-right;
+    font-weight:500;
+    text-transform: uppercase;
+}
+.op{
+    text-align:end;
+    background-color: rgb(202, 202, 254);
+    border-width: inherit;
+    border-radius: 5px;
+    margin: -100px 1700px 10px 1450px ;
+}
+.goo{
+    height:60px;
+    width: 60px;
+    background-color: rgb(106, 118, 141);
+    border-radius: 50%;
+    padding:30px 20px 10px 20px ;
+    margin:20px;
+}
